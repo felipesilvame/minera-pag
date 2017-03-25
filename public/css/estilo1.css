@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+body{
+	font-family: 'Lato', sans-serif;
+}
+
+.color1{
+	background-color: #7D1935;
+}
+.color2{
+	background-color: #4A96AD;
+}
+.color3{
+	background-color: #F5F3EE;
+}
+.color4{
+	color: #FFFFFF;
+}
